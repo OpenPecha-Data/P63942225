@@ -1,0 +1,31 @@
+id: P63942225
+initial_creation_type: input
+source_metadata:
+  title: Chöd Series
+  language: bo
+  description: 'Texts related to Chöd (gcod), literally cutting or severance, the
+    practice of offering one''s own body to demons as a means of overcoming self-cherishing:'
+  volume:
+    8259b08a26df4410944084a9e2fa4374:
+      title: A Short Story of the Life and Liberation of Jamyang Khyentse Chökyi Lodrö
+      parent: Biographies
+    cfe83792b4d34b779d6434f7c4abfb8a:
+      title: Brief Biography of Gyurme Jamyang Tenpel from Supplementary Biographies
+        for the Lineage of the Ḍākinī’s Whispered Transmission of Secret Conduct
+      parent: Biographies
+    fb4b5069697042fcb7008d367343bc1b:
+      title: The Lineage Prayer for the Natural Liberation of Grasping (Dzinpa Rangdrol)
+      parent: Lineage Prayers
+    83e33323e9864cf8b07cd9f122ecac1a:
+      title: Prayer to the Gurus of the Chöd Lineage
+      parent: Lineage Prayers
+    3796921a930d4b6392d10aaefc31f6f5:
+      title: Concise Offering of the Body from the Root Text of the Heart Accomplishment
+        of the Guru Tukdrup, The Essential Manual of Oral Instructions (Shaldam Nyingjang)
+      parent: Practices
+    26a4e0e4e1c7418fa027a0bb1034e0cc:
+      title: 'Cutting through the Four Demons in Absolute Space: A Praise of Machik
+        Labdrön'
+      parent: Praise
+created_at: '2022-03-01T03:12:13.977354'
+last_modified_at: '2022-03-01T03:12:13.977357'
